@@ -1,0 +1,56 @@
+
+* {
+	margin:0;
+	padding:0;
+}
+p{
+	font-size: 18px;
+	color:#ebebea;
+	font-family:"Arial";
+}
+h1 ,b {
+	color: #ffae00;
+}
+.Titulo {
+	font-family:"Impact";
+	font-size:25px;
+	font
+}
+.volanta {
+	font-size: 10
+}
+.banner {
+	position:absolute;
+	left:0%;
+	top:-95%;
+	height:90%;
+	width:100%
+}
+header, .main {
+	background:#0d3351;
+	width:40%;
+	margin:auto;
+	position:absolute;
+	left:5%;
+	top:10%;
+	padding:20px;
+}
+.size {
+	height:500px;
+	width:750px;
+	position:absolute;
+	left:101%;
+	top:0%;
+}
+.black{
+	background:url(../images/copa2.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.epigrafe {
+	text-align:center;
+	color:white;
+	position:absolute;
+	left:1000px;
+	top:600px;
+}
